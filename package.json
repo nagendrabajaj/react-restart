@@ -1,0 +1,37 @@
+{
+  "name": "react-restart",
+  "version": "1.0.0",
+  "description": "React from scratch",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagendrabajaj/react-restart.git"
+  },
+  "keywords": [
+    "react",
+    "restart",
+    "react",
+    "nagendra",
+    "bajaj"
+  ],
+  "author": "Nagendra Bajaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagendrabajaj/react-restart/issues"
+  },
+  "homepage": "https://github.com/nagendrabajaj/react-restart#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
